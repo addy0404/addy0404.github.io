@@ -17,9 +17,9 @@ Business Analytics, Masters
 
 <table>
   <tr>
-    <td><img src="assets/Impact_Analytics.jpg" alt="o9 Logo" width="270" height="270"></td>
-    <strong>Senior Data Scientist @ o9Solutions (Apr 2022 - Jun 2023)<strong></strong><br>
+    <td><img src="assets/o9_logo.png" alt="o9 Logo" width="270" height="270"></td>
       <td>
+      <strong>Senior Data Scientist @ o9Solutions (Apr 2022 - Jun 2023)<strong></strong><br>
     - Increased shipment prediction accuracy by 30%, for Starbucks stores across US, through demand forecasting using advanced analytics on time series data and deployed the predictive models using python, Pyspark and Azure Databricks<br>
     - Designed, evaluated and implemented machine learning models in python to automate historical data selection from similar stores, boosting forecast accuracy of a new store’s items by an average of 60% <br>
     - Developed a statistical forecasting model to predict the sales of newly launched items in the client’s store, reducing the forecast error by 17% by analyzing time-series data using python and excel<br>
@@ -27,7 +27,7 @@ Business Analytics, Masters
     </td>
   </tr>
   <tr>
-    <td><img src="assets/Impact_Analytics.jpg" alt="o9 Logo" width="270" height="270"></td>
+    <td><img src="assets/o9_logo.png" alt="o9 Logo" width="270" height="270"></td>
     <td>
     <strong>Senior Functional Consultant @ o9Solutions (Apr 2021- Mar 2022)</strong><br>
     - Optimized transportation routes to reduce transportation time of SKUs by 30% using linear programming, showcasing ability to partner with cross-functional team of data scientists and product managers<br>
@@ -36,7 +36,7 @@ Business Analytics, Masters
   </td>
     </tr>
   <tr>
-    <td><img src="assets/Impact_Analytics.jpg" alt="o9 Logo" width="270" height="270"></td>
+    <td><img src="assets/o9_logo.png" alt="o9 Logo" width="270" height="270"></td>
     <td>
     <strong>Functional Consultant @ o9Solutions (Jul 2019- Mar 2021)</strong><br>
     -	Designed the automation of interaction between CRM products using rest APIs and web-hooks in python, leveraging AWS Lambda for scalability & end-to-end deployment, reducing manual work hours by 95%<br>
