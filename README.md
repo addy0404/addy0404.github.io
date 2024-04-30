@@ -10,7 +10,7 @@ Business Analytics, Masters
 
 <style>
   img {
-    max-width: 100%;
+    max-width: 200%;
     height: auto;
   }
 </style>
