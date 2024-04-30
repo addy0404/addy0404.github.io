@@ -8,6 +8,12 @@ Business Analytics, Masters
 
 ### Work Experience
 
+<style>
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
 
 <table>
   <tr>
@@ -23,7 +29,7 @@ Business Analytics, Masters
   <tr>
     <td><img src="assets/o9_logo.png" alt="o9 Logo" width="150" height="150"></td>
     <td>
-    <strong>Senior Functional Consultant @ o9Solutions (Apr 2021- Mar 2022)</strong><br>
+    <strong>Sr Functional Consultant @ o9Solutions (Apr 2021- Mar 2022)</strong><br>
     - Optimized transportation routes to reduce transportation time of SKUs by 30% using linear programming, showcasing ability to partner with cross-functional team of data scientists and product managers<br>
     - Led a 5-member team to assess & build efficient solutions, enhance user experience, develop wireframes, handle client conversations to enable seamless delivery with the mindset of putting customers first<br>
     - Created an inventory allocation algorithm to distribute Stock Transfer Requests of SKUs from manufacturing sites to depots, utilizing real-time estimates and current stock levels, enhancing inventory management efficiency by 40% in R 
