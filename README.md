@@ -10,14 +10,14 @@ Business Analytics, Masters
 
 <style>
   img {
-    max-width: 200%;
+    max-width: 100%;
     height: auto;
   }
 </style>
 
 <table>
   <tr>
-    <td><img src="assets/o9_logo.png" alt="o9 Logo" width="150" height="150"></td>
+    <td><img src="assets/o9_logo.png" alt="o9 Logo" width="200" height="200"></td>
       <td>
       <strong>Senior Data Scientist @ o9Solutions (Apr 2022 - Jun 2023)</strong><br>
     - Increased shipment prediction accuracy by 30%, for Starbucks stores across US, through demand forecasting using advanced analytics on time series data and deployed the predictive models using python, Pyspark and Azure Databricks<br>
@@ -27,7 +27,7 @@ Business Analytics, Masters
     </td>
   </tr>
   <tr>
-    <td><img src="assets/o9_logo.png" alt="o9 Logo" width="150" height="150"></td>
+    <td><img src="assets/o9_logo.png" alt="o9 Logo" width="200" height="200"></td>
     <td>
     <strong>Sr Functional Consultant @ o9Solutions (Apr 2021- Mar 2022)</strong><br>
     - Optimized transportation routes to reduce transportation time of SKUs by 30% using linear programming, showcasing ability to partner with cross-functional team of data scientists and product managers<br>
@@ -36,7 +36,7 @@ Business Analytics, Masters
   </td>
     </tr>
   <tr>
-    <td><img src="assets/o9_logo.png" alt="o9 Logo" width="150" height="150"></td>
+    <td><img src="assets/o9_logo.png" alt="o9 Logo" width="200" height="200"></td>
     <td>
     <strong>Functional Consultant @ o9Solutions (Jul 2019- Mar 2021)</strong><br>
     -	Designed the automation of interaction between CRM products using rest APIs and web-hooks in python, leveraging AWS Lambda for scalability & end-to-end deployment, reducing manual work hours by 95%<br>
